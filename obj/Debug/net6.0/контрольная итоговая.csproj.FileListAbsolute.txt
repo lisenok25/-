@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\контрольная итоговая\bin\Debug\net6.0\контрольная итоговая.exe
+C:\Users\Zver\Desktop\контрольная итоговая\bin\Debug\net6.0\контрольная итоговая.deps.json
+C:\Users\Zver\Desktop\контрольная итоговая\bin\Debug\net6.0\контрольная итоговая.runtimeconfig.json
+C:\Users\Zver\Desktop\контрольная итоговая\bin\Debug\net6.0\контрольная итоговая.dll
+C:\Users\Zver\Desktop\контрольная итоговая\bin\Debug\net6.0\контрольная итоговая.pdb
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.AssemblyInfo.cs
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.dll
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\refint\контрольная итоговая.dll
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.pdb
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\контрольная итоговая.genruntimeconfig.cache
+C:\Users\Zver\Desktop\контрольная итоговая\obj\Debug\net6.0\ref\контрольная итоговая.dll
